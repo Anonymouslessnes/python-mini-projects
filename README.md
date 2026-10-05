@@ -1,4 +1,4 @@
-# Python projects
+# Python mini projects
 ### caesar cipher.py
 Performs the ceaser cipher with a given text.
 Uses Tkinter
